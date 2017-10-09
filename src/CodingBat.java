@@ -65,6 +65,7 @@ public class CodingBat {
 			System.out.println("num[i] - 1 + " + (nums[i]-1));
 			System.out.println("num[i+2] = " + (nums[i+2]));
 			
+			
 			System.out.println("into the loop");
 			if ((nums[i] + 5) == nums[i + 1]) {
 				System.out.println("nums[i] + 5 == nums[i+1]");
